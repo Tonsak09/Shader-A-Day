@@ -42,9 +42,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _DarkThreshold: 3.3
+    - _Density: 18.99
+    - _LitThreshold: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Scale: 0.2
+    - _Softness: 0.78
     m_Colors: []
   m_BuildTextureStacks: []
 --- !u!114 &8647643946349594655
